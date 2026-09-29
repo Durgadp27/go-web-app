@@ -8,7 +8,7 @@ image:
   repository: dpdurgadp/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "latest"
+  tag: "36504726645"
 
 ingress:
   enabled: false
